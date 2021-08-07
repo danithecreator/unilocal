@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.btnComoLlegar {
+    background: var(--naranjado);
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+.nombreLugar {
+    font-size: 2rem;
+}
+
+.filtro {
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
+}
+
